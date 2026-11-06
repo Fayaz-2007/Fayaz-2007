@@ -103,18 +103,15 @@ Raspberry Pi + Node-RED environment monitor — temperature, motion, gas and aut
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fayaz-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-2007&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" /> <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" /> <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 ## 🔥 Streak & Activity
 
 <img src="https://streak-stats.demolab.com?user=Fayaz-2007&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz-2007&theme=tokyo-night&hide_border=true" width="90%" />
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fayaz-2007&theme=radical&row=1&margin-w=10&no-frame=true" />
 
 ## 🤝 Connect
 
