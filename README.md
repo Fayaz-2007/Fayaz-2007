@@ -1,41 +1,126 @@
-# Hi, I'm Fayaz Ahmed 👋
+<div align="center">
 
-B.E. CSE student at SVCE, Chennai (2024–2028) | Full-stack + AI developer
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:4F46E5&height=220&section=header&text=Hi,%20I'm%20Fayaz%20Ahmed%20👋&fontSize=42&fontColor=fff&animation=fadeIn)
 
-- 🎯 **Focus:** Full-stack development, AI systems (RAG, agents, LangGraph), hardware-software integration (Raspberry Pi, ESP32)
-- - 🚀 **Roles:** Marketing Lead @ KNOW-I (AI club) · Freelance web & design work
-  - - 📫 **Contact:** [LinkedIn](https://linkedin.com/in/fayaz-ahmed-59287631a)
-   
-    - ---
+<a href="https://github.com/Fayaz-2007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Systems+Builder;RAG+%26+Agentic+AI;Hardware+%2B+Software+Integration" alt="Typing SVG" />
+</a>
 
-    ### Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=Fayaz-2007&color=7F00FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fayaz-ahmed-59287631a)
 
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🧑‍💻 About Me
 
-    ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 B.E. Computer Science Engineering student at **SVCE, Chennai** (2024–2028)
+- 📣 **Marketing Lead** at **KNOW-I**, an AI/intelligence club in the CSE department
+- 💼 Freelance **web development & design** work
+- 🤖 Currently building **AI agents** and full-stack products — from local-first RAG workbenches to hackathon-ready ML tools
 
-    ---
+<div align="center">
 
-    ### Featured Projects
+## 🛠️ Tech Stack
 
-    | Project | Description | Tech |
-    |---|---|---|
-    | [Sovereign AI Workbench](https://github.com/Fayaz-2007/workbench) | Self-hosted, air-gapped agentic AI workbench for confidential industrial use | React, FastAPI, Ollama |
-    | [I-Cube Legal Chatbot](https://github.com/Fayaz-2007/legal-chatbot) | RAG-powered legal assistant answering Indian cybercrime law queries with sources | React, Node.js, FastAPI, Gemini |
-    | [SupplySense](https://github.com/Fayaz-2007/supply-chain) | Dataset-agnostic AutoML studio for EDA, model training and business reports | Python, Streamlit |
-    | [Road Surface Displacement Detection](https://github.com/Fayaz-2007/Road_Depth_Project) | CNN + regression system detecting potholes/bumps from road images | Python, MATLAB |
-    | [RPi IoT Environment Monitoring](https://github.com/Fayaz-2007/raspberry-pi-iot-environment-monitoring) | Raspberry Pi monitoring system with temp dashboard, motion & gas detection | Raspberry Pi, Node-RED |
+**Languages**
 
-    ---
+![](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts)
 
-    ### GitHub Stats
+**Frontend**
 
-    ![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayaz-2007&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-2007&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
 
-    ---
+**Backend**
 
-    📫 Reach me on [LinkedIn](https://linkedin.com/in/fayaz-ahmed-59287631a)
-    
+![](https://skillicons.dev/icons?i=fastapi,spring,nodejs,postgres,supabase)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,matlab,figma)
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Sovereign AI Workbench](https://github.com/Fayaz-2007/workbench)
+Self-hosted, air-gapped agentic AI workbench for confidential industrial work — local inference, RAG and document generation, zero external AI calls.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [SupplySense](https://github.com/Fayaz-2007/supply-chain)
+Dataset-agnostic AutoML studio — upload any tabular dataset and get EDA, model comparison, predictions and business reports.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [I-Cube Legal Chatbot](https://github.com/Fayaz-2007/legal-chatbot)
+RAG-powered legal chatbot answering Indian cybercrime law questions with source citations.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [AgriVarsha — Monsoon Advisory](https://github.com/Fayaz-2007/monsoon-advisory)
+SIH 2026 project: hyperlocal monsoon onset/break prediction and crop advisories for Tamil Nadu farmers.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Local Shop Delivery
+Hyperlocal grocery delivery marketplace for Ambattur, Chennai — customer, shop admin and delivery partner apps.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+### [RPi IoT Monitoring](https://github.com/Fayaz-2007/raspberry-pi-iot-environment-monitoring)
+Raspberry Pi + Node-RED environment monitor — temperature, motion, gas and automatic LED control.
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fayaz-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-2007&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+## 🔥 Streak & Activity
+
+<img src="https://streak-stats.demolab.com?user=Fayaz-2007&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz-2007&theme=tokyo-night&hide_border=true" width="90%" />
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fayaz-2007&theme=radical&row=1&margin-w=10&no-frame=true" />
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fayaz-ahmed-59287631a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fayaz-2007)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:4F46E5&height=150&section=footer)
