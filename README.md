@@ -15,6 +15,7 @@
 
 - 🎓 B.E. Computer Science Engineering student at **SVCE, Chennai** (2024–2028)
 - 📣 **Marketing Lead** at **KNOW-I**, an AI/intelligence club in the CSE department
+- 🎨 **Design Lead** at **DSC SVCE**, a college-level tech club
 - 💼 Freelance **web development & design** work
 - 🤖 Currently building **AI agents** and full-stack products — from local-first RAG workbenches to hackathon-ready ML tools
 
