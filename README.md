@@ -37,7 +37,11 @@
 
 **Tools**
 
-![](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,matlab,figma)
+![](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,matlab,figma,docker)
+
+**Also using**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8800?style=for-the-badge&logo=autodesk&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
 
 </div>
 
